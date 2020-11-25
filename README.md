@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 1.魔王教授
 2.エルマス
 3.若葉
+4.久保教授
 # ディレクトリ構成
 ```
 seminar/
